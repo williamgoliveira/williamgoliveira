@@ -14,7 +14,7 @@
       <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=huntzzxx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamgoliveira&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
       </td>
@@ -22,7 +22,7 @@
       <a href="https://github.com/huntzzxx">
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=huntzzxx&theme=dracula&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=williamgoliveira&theme=dracula&hide_border=false"
         alt="Github stats"
       </a>
     </td>
