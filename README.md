@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm William</h1>
-<h3 align="center">student at Federal University of Goiás</h3>
+<h3 align="center">Information Systems student at Federal University of Goiás</h3>
 
 - How to reach me **william.william@discente.ufg.br**
 
@@ -19,7 +19,7 @@
       />
       </td>
       <td>
-      <a href="https://github.com/huntzzxx">
+      <a href="https://github.com/williamgoliveira">
       <img
         align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=williamgoliveira&theme=dracula&hide_border=false"
