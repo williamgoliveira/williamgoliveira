@@ -11,21 +11,14 @@
 
 <table>
   <tr>
-      <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamgoliveira&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
+    <td>
+    <a href="https://github.com/williamgoliveira/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=williamgoliveira&theme=dark&hide=stars&show_icons=true" />
+</a>
+<a href="https://github.com/williamgoliveira/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=williamgoliveira&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
       </td>
-      <td>
-      <a href="https://github.com/williamgoliveira">
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=williamgoliveira&theme=dracula&hide_border=false"
-        alt="Github stats"
-      </a>
-    </td>
       </tr>
 <table>
   
