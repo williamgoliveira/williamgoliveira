@@ -9,9 +9,7 @@
 <a href="https://instagram.com/willeumesmo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="willeumesmo" height="30" width="40" /></a>
 </p>
 
-  <a href="https://github.com/williamgoliveira/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=williamgoliveira&theme=dark&hide=stars&show_icons=true" />
-</a>
+
 <a href="https://github.com/williamgoliveira/convoychat">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=williamgoliveira&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
