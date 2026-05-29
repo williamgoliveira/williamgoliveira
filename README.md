@@ -1,26 +1,26 @@
-<h1 align="center">Hi there, I'm William</h1>
-<h3 align="center">Information Systems student at Federal University of Goiás</h3>
+# Hello there
 
-- How to reach me **william.william@discente.ufg.br**
+```Java
+public class Developer {
+  private String name = "William G. Oliveira";
+  private String school = "Information Systems student at Federal University of Goiás"; //located in Brazil 🇧🇷
+  private String area = "Full-stack Development";
+  public String[] technologies = {"JavaScript", "Java", "PHP", "Python", "React", "Docker", "SQL", "CI/CD"};
+}
+```
+<table>
+- How to reach me <strong>william.william@discente.ufg.br</strong>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/william-gonçalves-de-oliveira-409337235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/william-de-oliveira-409337235/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/william-gon-oli/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/william-gon-oli/" height="30" width="40" /></a>
 <a href="https://instagram.com/willeumesmo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="willeumesmo" height="30" width="40" /></a>
 </p>
 
 
-<a href="https://github.com/williamgoliveira/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=williamgoliveira&layout=compact&langs_count=8&card_width=320&theme=dark" />
-</a>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/> </a>
+<p>
+  <a href="https://github.com/williamgoliveira">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=williamgoliveira&layout=compact&langs_count=8&theme=tokyonight"/>
+  </a>
+</p>
+</table>
